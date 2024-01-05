@@ -1,6 +1,7 @@
 # Compile directories
 build/
 output/
+.vscode/
 
 # Codeblocks
 *.layout
